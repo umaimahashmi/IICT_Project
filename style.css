@@ -1,0 +1,482 @@
+            .header
+            {
+                  background-color:#263238; 
+                  height:100px; 
+                  width:100%; 
+                  float:right;
+                  padding:10px; 
+            }
+      	.buttons
+      	{
+                  border-radius:20px;
+                  background-color:white;
+                  width:100px;
+
+                  font-size:10px;
+                  text-align:center;
+                  font-family:terserah;
+                  float:right;
+                  margin-left:20px;
+                  margin-right:60px;
+                  margin-top:2.5px;
+                  margin-bottom:2.5px;
+      	}
+            #footer
+            {
+                  background-color:#263238; 
+                  height:350px; 
+                  width:1600px; 
+                  float:right;
+            }
+            #footer-heading
+            {
+                  font-family:terserah;
+            }
+            .footer-content
+            {
+                  color:white;
+                  font-family:source code variable;
+                  font-size:20px;
+
+            }
+            .social-media
+            {
+                  border-radius:20px;
+                  background-color:white;
+                  width:100px;
+
+                  font-size:10px;
+                  text-align:center;
+                  font-family:terserah;
+                  float:left;
+                  margin-left:50px;
+                  margin-right:10px;
+                  margin-top:2.5px;
+                  margin-bottom:2.5px;
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      	.home-outercontainer1
+      	{
+      	      position: relative;
+      	}
+      	#back-to-school-heading
+      	{
+                  position:absolute;
+      		font-size:50px;
+                  text-align:left;
+                  font-family:terserah;
+                  color:white;
+                  float:left;      	}
+      	.home-innercontainer1
+      	{
+                  border-radius:30px;
+                  border-radius:30px;
+                  position: absolute;
+                  background-color:black;
+                  width:50px;
+                  margin:200px ;
+      	}
+      	.home-outercontainer2
+      	{
+      	      position:relative;
+                  background-color:#E0E0E0; 
+                  height:500px; 
+                  width: 100%; 
+                  border:50px; 
+                  float:left; 
+      	}
+      	.home-innercontainer2
+      	{
+                  border-radius:30px;
+      		position:absolute;
+      		background-color:#ffffff;
+      		float:right;
+      		margin-top:80px;
+                  margin-left:200px;
+      		height:250px;
+      		width:1050px;
+      		padding:50px;
+      	}
+            .home-picture3-4
+            {
+                  width:450px; 
+                  height:250px; 
+                  margin-left:90px; 
+                  float:left; 
+                  margin-right:20px;  
+            }
+            #home-picture1
+            {
+                  width:1600px; 
+                  height:450px; 
+                  margin-left:10px; 
+                  float:right
+            }
+            .home-heading
+            {
+                  font-size:40px; 
+                  font-family:terserah; 
+                  text-align:center;
+            }
+            .home-para
+            {
+                  font-size:27px; 
+                  font-family:source code variable; 
+                  text-align:left;
+            }
+            #home-para1
+            {
+                  text-align:center
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      .pplan-outercontainer1
+      {
+            position: relative;
+      }
+      .pplan-innercontainer1
+      {
+            position: absolute;
+            background-color:black;
+            width:50px;
+            margin:200px ;
+      }
+      .pplan-outercontainer2
+      {
+            position:relative;
+            background-color:#E0E0E0; 
+            height:500px; 
+            width: 100%; 
+            border:50px; 
+            float:left; 
+        }
+      .pplan-innercontainer2
+      {
+            border-radius:30px;
+            position:absolute;
+            background-color:#ffffff;
+            float:right;
+            margin-top:80px;
+            margin-left:200px;
+            height:250px;
+            width:1050px;
+            padding:50px;
+      }
+      .pplan-heading
+      {
+            font-family:terserah;
+            margin-left:50px;
+      }
+      .pplan-item
+      {
+            font-family:source code variable;
+            font-size:30px;
+            margin-left:50px;
+      }
+      .pplan-circle
+      {
+            background-color:#263238; 
+            float:right; 
+            border-radius:120px; 
+            height:240px; 
+            width:240px;
+      }
+      .pplan-choose-plan
+      {
+            color:white; 
+            margin:90px;
+            font-family:terserah;
+            font-size:20px;
+      }
+      #pplan-picture1
+      {
+            width:1600px; 
+            height:450px; 
+            float:right
+      }
+      #pplan-picture2
+      {
+            height:240px;
+            width: 240px;
+            float: right;
+            border-radius:120px;
+            margin-right:40px;
+      }
+
+
+
+
+
+
+
+
+
+      .acti-outercontainer1
+      {
+            position: relative;
+      }
+      .acti-innercontainer1
+      {
+            position: absolute;
+            background-color:black;
+            width:50px;
+            margin:200px ;
+      }
+      .acti-outercontainer2
+      {
+            position:relative;
+            background-color:#E0E0E0; 
+            height:700px; 
+            width: 100%; 
+            border:50px;
+            float:right; 
+      }
+      .acti-innercontainer2
+      {
+            border-radius:40px;
+            background-color:white;
+            margin-top:80px;
+            height:400px;
+            width:300px;
+            padding:50px;
+            float:right;
+      }
+      #acti-class1
+      {
+            position:absolute; 
+            margin-left:170px;
+            float:right;
+      }
+      #acti-class2
+      {
+            position:relative; 
+            margin-right:160px;
+            float:right;
+      }
+      #acti-class3
+      {
+            position:relative;
+            margin-right:80px;
+            float:right;
+            margin-right:20px;
+      }
+      #acti-class4
+      {
+            position:absolute; 
+            margin-left:170px;
+            float:right;
+      }
+      #acti-class5
+      {
+            position:relative; 
+            margin-right:160px;
+            float:right;
+      }
+      #acti-class6
+      {
+            position:relative;
+            margin-right:80px;
+            float:right;
+            margin-right:20px;
+      }
+      #acti-picture2
+      {
+            width:140px; 
+            height:140px; 
+            margin-left:10px; 
+            float:right;
+            margin-right:70px;
+      }
+      .acti-headigs-fas
+      {
+             position:absolute;
+            font-size:30px;
+            text-align:left;
+            font-family:source code variable;
+            color:black;
+            margin-top:170px;
+
+      }
+      .acti-para-fas
+      {
+            position:absolute;
+            font-size:20px;
+            text-align:left;
+            font-family:source code variable;
+            color:black;
+             margin-top:260px;
+      }
+      #acti-picture1
+      {
+            width:1600px; 
+            height:450px; 
+            margin-left:10px; 
+            float:right
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      #bene-picture2
+      {
+            width:140px; 
+            height:140px; 
+            margin-left:10px; 
+            float:right;
+            margin-right:70px;
+      }
+      .bene-outercontainer1
+      {
+            position: relative;
+      }
+      .bene-innercontainer1
+      {
+            position: absolute;
+            background-color:black;
+            width:50px;
+            margin:200px ;
+            float:right;
+      }
+      .bene-outercontainer2
+      {
+            position:relative;
+            background-color:#E0E0E0; 
+            height:700px; 
+            width: 100%; 
+            border:50px;
+            float:right; 
+      }
+      .bene-innercontainer2
+      {
+            border-radius:30px;
+            background-color:white;
+            margin-top:80px;
+            height:400px;
+            width:320px;
+            padding:50px;
+            float:right;
+      }
+      #bene-fas1
+      {
+            position:absolute; 
+            margin-left:300px;
+      }
+      #bene-fas2
+      {
+            position:relative; 
+            margin-right:300px;
+      }
+      #bene-fas3
+      {
+            position:absolute; 
+            margin-left:300px;
+      }
+      #bene-fas4
+      {
+            position:relative; 
+            margin-right:300px;
+
+      }
+      .bene-headigs-fas
+      {
+            position:absolute;
+            font-size:30px;
+            text-align:center;
+            font-family:terserah;
+            color:black;
+            margin-top:200px;
+
+      }
+      #bene-picture1
+      {
+            width:1600px; 
+            height:450px; 
+            margin-left:10px; 
+            float:right
+      }
+
+
+
+
+
+
+
+
+
+
+      #login_outerdiv
+      {
+         background-color:white; 
+         width:100%; 
+         height:800px; 
+         position:relative;
+      }
+      #login_pic
+      {
+         height:800px; 
+         width:1650px; 
+         position:absolute;
+      }
+      #login_innerdiv
+      {
+         background-color:white; 
+         width:50%; 
+         height:350px; 
+         position:relative; 
+         margin:200px; 
+         float:right; 
+         margin-right:400px; 
+         padding:20px;
+      }
+      .login_button
+      {
+         background-color:grey; 
+         border-radius:20px;
+         padding-right:50%;
+      }
+      #login
+      {
+         text-align:center;
+      }
+      .head
+      {
+         text-align:center;
+      }
